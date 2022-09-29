@@ -12,10 +12,21 @@ body{
     }
      
     p {
-        float: right;
+        /*float: right;*/
         font-size: 20px;
+        text-align: center;
     }
-
+ 
     ul {
     font-size: 20px;
+    text-align: center;
+    }
+ 
+    h1 {
+        text-align: center;
+        background-color: #60605C;
+        color: aliceblue;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        font-size: 50px;
     }
