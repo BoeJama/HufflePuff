@@ -16,12 +16,12 @@ body{
         font-size: 20px;
         text-align: center;
     }
-
+ 
     ul {
     font-size: 20px;
     text-align: center;
     }
-
+ 
     h1 {
         text-align: center;
         background-color: #60605C;
@@ -30,3 +30,34 @@ body{
         padding-top: 20px;
         font-size: 50px;
     }
+ 
+   .img1 {
+        width: 20%;
+        height: 20%;
+    }
+ 
+    .img2 {
+        width: 20%;
+        height: 20%;
+    }
+ 
+    .img3 {
+        width: 20%;
+        height: 20%;
+    }
+   
+    .img4 {
+        width: 20%;
+        height: 20%;
+    }
+   
+    .img5 {
+        width: 20%;
+        height: 20%;
+    }
+ .gg {
+        width: 15%;
+        height: 15%;
+    }
+ 
+
